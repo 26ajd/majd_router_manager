@@ -55,7 +55,7 @@
 
 1. تأكد من تثبيت Flutter و Android Studio أو VS Code.
 2. توليد الملفات الناقصة.
-3. اشغل المشروع:
+3. شغل المشروع:
 
 ```bash
 flutter create .
